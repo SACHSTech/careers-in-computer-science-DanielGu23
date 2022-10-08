@@ -2,15 +2,15 @@
 
 # Careers in Computer Science - Daniel
 
-<img align="right" width="290" height="140" src= "SeniorSoftware.jpg">
+<img align="right" width="250" height="170" src= "SeniorSoftware.jpg">
 
 ## **Senior Software Engineer** 
 
+<p>A senior software engineer works together with a software team to develop
+information systems by studying operations. Their main job is to develop and 
+install software solutions. They also supervise a group of programmers and 
+create new websites, as well as maintain those that already exist.</p>
 
-<p>A senior software engineer works together with a software team to develop information systems by studying<br> 
-operations. Their main job is to develop and install software solutions. They also supervise a group of programmers<br> 
-and create new websites, as well as maintain those that already exist.</p>
-<br>
 
 ### **Responsibilities:** 
 ***
