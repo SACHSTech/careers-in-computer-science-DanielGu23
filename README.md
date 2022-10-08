@@ -54,4 +54,19 @@ Average salary in Toronto, ON Area: <em>$117,920</em>
 
 <strong>Estimated Time to complete degree:</strong> 4 years
 
+***
+
+### Opportunities for Gaining Work Experience:
+
+Opportunity #1:
+[Hack the North (Hackathon)](https://hackthenorth.com/) - 
+Apply to Hack the North, which is an all expense paid hackathon where programmers and engineers of various skill levels come together to work on projects in groups. This event happens over a weekend and only lasts a few days, so participants have to learn how to manage their time and work collaboratively with others.
+
+Opportunity #2:
+[Co-op Program](https://cs.uwaterloo.ca/future-undergraduate-students/co-op-and-regular) - 
+Take the co-op program at University of Waterloo. This allows you to graduate with up to 2 years of work experience and create valuable connections before graduation.
+
+Opportunity #3:
+[App Building](https://developer.android.com/training/basics/firstapp) - 
+Build an app on google play store as a self-starter project. Not only will you learn important programming skills, but you will also have to understand user interests and calculate the costs behind each expense. Additionally, if you are working together with a group of friends, this could be a good opportunity to take on a leadership role.
 
