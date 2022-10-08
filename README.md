@@ -43,3 +43,15 @@ Salary Range in Toronto, ON Area: <em>$88,000 to $158,000</em>
 Average salary in Toronto, ON Area: <em>$117,920</em>
 
 ***
+
+## University of Waterloo - Bachelor’s degree in Computer Science
+| Entrance Requirements        | First Year Courses           | Additional Requirements  |
+| ------------- |:-------------:| -----:|
+|   Advanced Functions    | CS 135 – Designing Functional Programs: Aimed at CS majors and uses a functional programming approach to code programs | One communications skills course |
+| Calculus and Vectors | MATH 135 – Algebra for Honors Mathematics: An introduction to mathematics and proof techniques through the study of basic algebraic systems | 3 electives in your first year |
+| Any Grade 12 U English | CS 136 – Elementary Algorithm Design and Data Abstraction: Introduces the design and analysis of algorithms |N/A|
+| Any Other 4U Course | CS 136L – Tools and Techniques for Software Development: Introduces tools and techniques useful in the software development lifecycle|  N/A| 
+
+<strong>Estimated Time to complete degree:</strong> 4 years
+
+
