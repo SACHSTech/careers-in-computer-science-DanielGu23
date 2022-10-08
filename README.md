@@ -139,7 +139,7 @@ Build an app on google play store as a self-starter project. Not only will you l
 “All Software Engineer Jobs in Markham, on | Workopolis.” Workopolis.com, 3 Oct. 2022, www.workopolis.com/jobsearch/find-jobs?ak=software+engineer&l=Markham%2C+ON&job=3FeLqEErAobGqbQv_2jbS594Wi7i6V2wzcPAFSCGKiZXYJv9p1GdBA
 
 “Build Your First App  |  Android Developers.” Android Developers, 2022, 
-www.developer.android.com/training/basics/firstapp
+https://developer.android.com/training/basics/firstapp
 
 “Computer Science.” Undergraduate Programs, 9 July 2021, 
 www.uwaterloo.ca/future-students/courses/computer-science
@@ -147,19 +147,19 @@ www.uwaterloo.ca/future-students/courses/computer-science
 “Hack the North.” Hackthenorth.com, 2022, www.hackthenorth.com/
 
 “Rose Rocket - Junior Software Engineer.” Lever.co, 2022, 
-www.jobs.lever.co/roserocket/bedc559e-b08c-4473-9884-c76e2ac059cb?lever-source=Indeed
+https://jobs.lever.co/roserocket/bedc559e-b08c-4473-9884-c76e2ac059cb?lever-source=Indeed
 
 “Salary: Senior Software Engineer in Toronto, on 2022.” Glassdoor.ca, 2022,
 www.glassdoor.ca/Salaries/toronto-senior-software-engineer-salary-SRCH_IL.0,7_IM976_KO8,32.htm
 
 “Software Developer - Toronto, on - Indeed.com.” Indeed.com, 2021, 
-www.ca.indeed.com/viewjob?jk=761c4684fb0f84a8&from=cobra_vj&tk=1gen85oehg0nr800&iaal=1
+www.indeed.com/viewjob?jk=761c4684fb0f84a8&from=cobra_vj&tk=1gen85oehg0nr800&iaal=1
 
 “Software Engineer - Richmond Hill, on - Indeed.com.” Indeed.com, 2022, 
-www.ca.indeed.com/viewjob?jk=e91d31589da2e06f&from=cobra_vj&tk=1gen7qlubir1b800&iaal=1
+www.indeed.com/viewjob?jk=e91d31589da2e06f&from=cobra_vj&tk=1gen7qlubir1b800&iaal=1
 
 TopResume Editor. “Senior Software Engineer Job Description | Job Description 
-Examples.” TopResume, Senior Software Engineer Job Description | Job Description Examples | TopResume, 22 Dec. 2016, www.ca.topresume.com/career-advice/senior-software-engineer-job-description
+Examples.” TopResume, Senior Software Engineer Job Description | Job Description Examples | TopResume, 22 Dec. 2016, www.topresume.com/career-advice/senior-software-engineer-job-description
 
 
 **Images Cited**
